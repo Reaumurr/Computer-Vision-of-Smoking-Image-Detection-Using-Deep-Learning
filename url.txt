@@ -1,0 +1,5 @@
+HuggingFace: https://huggingface.co/spaces/Reaumur/Smoking-Photos-Detection
+
+Model Link: https://drive.google.com/file/d/1WyNnDy-FQLIONTo5Yh8Ug47nTVv5udJd/view?usp=sharing
+
+Dataset Link: https://www.kaggle.com/datasets/sujaykapadnis/smoking/data
