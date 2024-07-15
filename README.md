@@ -18,3 +18,8 @@ The model could be used to monitor smoking rates in different communities and id
 In addition, a deep learning model that can predict whether an image contains a person smoking or not smoking could also be used in the field of marketing and advertising. For example, the model could be used to analyze images of people in advertisements and determine whether they are smoking or not smoking. This information could be used to ensure that advertisements comply with regulations regarding the depiction of smoking in advertising.
 
 Overall, a deep learning model that can predict whether an image contains a person smoking or not smoking has the potential to be a valuable tool in a variety of business contexts. It can help businesses and organizations enforce smoking regulations, monitor smoking rates, and ensure compliance with advertising regulations.
+
+## Deployment
+
+The application is deployed on HuggingFace Spaces. Access it using the following link: 
+[Smoking Photos Detection on HuggingFace](https://huggingface.co/spaces/Reaumur/Smoking-Photos-Detection)
